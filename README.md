@@ -15,7 +15,7 @@ This is the personal portfolio website of **Manmohan Mahato**, an aspiring Full 
 ### E-commerce Website
 Intermediate-level e-commerce site with product recommendations, product listings and a shopping cart. Front-end and back-end skills needed.
 
-![E-commerce website preview](Assets\Ecommerce.png)
+![E-commerce website preview](Assets/Ecommerce.png)
 
 [GitHub](https://github.com/mannuuuu07/Ecommerce) | [Live Demo](https://stalwart-pastelito-7e27d2.netlify.app/)
 
@@ -24,7 +24,7 @@ Intermediate-level e-commerce site with product recommendations, product listing
 ### To-Do Lists
 Build a user friendly web application that allows users to create and manage to-do lists.
 
-![To-Do List App preview](Assets\ToDoList.png)
+![To-Do List App preview](Assets/ToDoList.png)
 
 [GitHub](https://github.com/mannuuuu07/ToDoList) | [Live Demo](https://silly-twilight-b42bec.netlify.app/)
 
@@ -33,7 +33,7 @@ Build a user friendly web application that allows users to create and manage to-
 ### Weather Dashboard
 API integration skills to build a weather dashboard that displays real-time weather data.
 
-![Weather Dashboard preview](Assets\WeatherDashboard.png)
+![Weather Dashboard preview](Assets/WeatherDashboard.png)
 
 [GitHub](https://github.com/mannuuuu07/Weather-dashboard) | [Live Demo](https://timely-semifreddo-0cc6da.netlify.app/)
 
