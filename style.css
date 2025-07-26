@@ -275,7 +275,6 @@ section {
     left: -20px;
     right: 20px;
     bottom: 20px;
-    background: var(--gradient-1);
     border-radius: 20px;
     z-index: -1;
 }
